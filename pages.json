@@ -1,0 +1,149 @@
+{
+	"easycom": {
+			"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+		},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/classification/classification",
+			"style": {
+				"navigationBarTitleText": "分类",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/life/life",
+			"style": {
+				"navigationBarTitleText": "生活",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/cart/cart",
+			"style": {
+				"navigationBarTitleText": "购物车",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/new/new",
+			"style": {
+				"navigationBarTitleText": "每日上新",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/details/details",
+			"style": {
+				"navigationBarTitleText": "商品详情",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/comment/comment",
+			"style": {
+				"navigationBarTitleText": "评价详情",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/askeveryone/askeveryone",
+			"style": {
+				"navigationBarTitleText": "问大家",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/article/article",
+			"style": {
+				"navigationBarTitleText": "文章详情",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/coupon/coupon",
+			"style": {
+				"navigationBarTitleText": "优惠券",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/list/list",
+			"style": {
+				"navigationBarTitleText": "商品列表",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/collectionBrowse/collectionBrowse",
+			"style": {
+				"navigationBarTitleText": "我的收藏",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "我的订单",
+				"navigationStyle":"custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar":{
+		"color":"#666666",
+		"selectedColor":"#D8A26D",
+		"list":[{
+			"text":"首页",
+			"pagePath":"pages/home/home",
+			"iconPath":"/static/icon/tabbar/icon_tab_main.png",
+			"selectedIconPath":"/static/icon/tabbar/icon_tab_main_sel.png"
+		},{
+			"text":"分类",
+			"pagePath":"pages/classification/classification",
+			"iconPath":"/static/icon/tabbar/icon_tab_classify.png",
+			"selectedIconPath":"/static/icon/tabbar/icon_tab_classify_sel.png"
+		},{
+			"text":"生活",
+			"pagePath": "pages/life/life",
+			"iconPath":"/static/icon/tabbar/icon_tab_pinwei.png",
+			"selectedIconPath":"/static/icon/tabbar/icon_tab_pinwei_sel.png"
+		},{
+			"text":"购物车",
+			"pagePath": "pages/cart/cart",
+			"iconPath":"/static/icon/tabbar/icon_tab_cart.png",
+			"selectedIconPath":"/static/icon/tabbar/icon_tab_cart_sel.png"
+		},{
+			"text":"我的",
+			"pagePath": "pages/my/my",
+			"iconPath":"/static/icon/tabbar/icon_tab_profile.png",
+			"selectedIconPath":"/static/icon/tabbar/icon_tab_profile_sel.png"
+		}]
+		
+	}
+}

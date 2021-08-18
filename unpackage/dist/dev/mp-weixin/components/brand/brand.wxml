@@ -1,0 +1,1 @@
+<view class="brand data-v-6f04ad94"><view class="brandimg data-v-6f04ad94"><image class="img100 data-v-6f04ad94" src="{{brand.pic_url}}"></image></view><view class="brandimg data-v-6f04ad94"><image class="img100 data-v-6f04ad94" src="{{brand1.image}}"></image></view></view>

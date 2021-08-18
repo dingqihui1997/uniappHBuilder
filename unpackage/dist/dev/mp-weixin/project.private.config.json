@@ -1,0 +1,84 @@
+{
+    "setting": {},
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages/classification/classification",
+                    "pathName": "pages/classification/classification",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/life/life",
+                    "pathName": "pages/life/life",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/details/details",
+                    "pathName": "pages/details/details",
+                    "query": "id=142623",
+                    "scene": null
+                },
+                {
+                    "name": "pages/comment/comment",
+                    "pathName": "pages/comment/comment",
+                    "query": "id=",
+                    "scene": null
+                },
+                {
+                    "name": "pages/askeveryone/askeveryone",
+                    "pathName": "pages/askeveryone/askeveryone",
+                    "query": "id=104904",
+                    "scene": null
+                },
+                {
+                    "name": "pages/article/article",
+                    "pathName": "pages/article/article",
+                    "query": "id=82783",
+                    "scene": null
+                },
+                {
+                    "name": "pages/home/home",
+                    "pathName": "pages/home/home",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/search/search",
+                    "pathName": "pages/search/search",
+                    "query": "undefined=undefined",
+                    "scene": null
+                },
+                {
+                    "name": "pages/my/my",
+                    "pathName": "pages/my/my",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/list/list",
+                    "pathName": "pages/list/list",
+                    "query": "name=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8",
+                    "scene": null
+                },
+                {
+                    "name": "pages/cart/cart",
+                    "pathName": "pages/cart/cart",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}

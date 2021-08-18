@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-notice-bar": "/node-modules/uview-ui/components/u-notice-bar/u-notice-bar",
+    "carousel": "/components/carousel/carousel",
+    "carnival": "/components/carnival/carnival",
+    "brand": "/components/brand/brand",
+    "micro-amoy": "/components/microAmoy/microAmoy",
+    "good-thing": "/components/goodThing/goodThing",
+    "hotsale": "/components/hotsale/hotsale",
+    "timelimit": "/components/timelimit/timelimit",
+    "sale": "/components/sale/sale",
+    "recommend": "/components/recommend/recommend",
+    "video1": "/components/video/video"
+  }
+}

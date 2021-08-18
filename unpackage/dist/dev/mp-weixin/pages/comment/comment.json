@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "评价详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top": "/components/top/top",
+    "u-rate": "/node-modules/uview-ui/components/u-rate/u-rate"
+  }
+}

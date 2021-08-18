@@ -1,0 +1,1 @@
+<view class="data-v-bd67cea0"><view class="data-v-bd67cea0"><view class="box flex-ja data-v-bd67cea0"><view class="left data-v-bd67cea0"><slot name="left"></slot></view><view class="center data-v-bd67cea0"><slot name="center"></slot></view><view class="right data-v-bd67cea0"><slot name="right"></slot></view></view></view></view>

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "生活",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top": "/components/top/top",
+    "life-rotation": "/components/lifeRotation/lifeRotation",
+    "living": "/components/living/living"
+  }
+}

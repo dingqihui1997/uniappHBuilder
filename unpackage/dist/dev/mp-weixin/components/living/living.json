@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "living-u-waterfall-right": "/components/living/living-u-waterfall-right",
+    "u-waterfall": "/node-modules/uview-ui/components/u-waterfall/u-waterfall"
+  },
+  "component": true
+}

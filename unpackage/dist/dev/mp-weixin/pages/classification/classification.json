@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "分类",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top": "/components/top/top",
+    "u-search": "/node-modules/uview-ui/components/u-search/u-search",
+    "rightscroll": "/components/rightscroll/rightscroll"
+  }
+}
